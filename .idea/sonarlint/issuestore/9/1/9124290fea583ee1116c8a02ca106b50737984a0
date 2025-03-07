@@ -1,0 +1,14 @@
+
+
+java:S2583š"DChange this condition so that it does not always evaluate to "false"(Ø¨ï¸ûÿÿÿÿ8™ú²2J$4389dc20-5fa2-456e-a05b-03e62dc3a7b5
+ 
+java:S1192l"XDefine a constant instead of duplicating this literal "redirect:/goods/cartAll" 4 times.(˜Õª³úÿÿÿÿ8‘™ú²2J$2601402c-adf3-48fa-a6ff-934f23b874b7
+‘
+java:S1192"IDefine a constant instead of duplicating this literal "uaccount" 6 times.(ÖìçÓûÿÿÿÿ8‘™ú²2J$8da92769-d6e4-4951-acd0-e7524836fe74
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‘™ú²2J$9e3e53f7-553f-4210-b050-3cf1f5a7848b
+r	java:S106)"+Replace this use of System.out by a logger.(Ëì³®üÿÿÿÿ8–™ú²2J$3d026389-6cf0-4868-9b78-9bbfaa9ea916
+r	java:S106N"+Replace this use of System.out by a logger.(Ëì³®üÿÿÿÿ8™™ú²2J$e5214103-5d71-479e-9d28-b939536e0b09
+„	java:S125‘"<This block of commented-out lines of code should be removed.(…ªÃúüÿÿÿÿ8™ú²2J$17b49ba8-f1d4-4c03-918f-cea7ad3d260b
+Ã
+java:S2159š"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ø¨ï¸ûÿÿÿÿ8Ÿ™ú²2J$d7e2c9e9-a64b-4861-b7ce-1dd40783d2db

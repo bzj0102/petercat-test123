@@ -1,0 +1,13 @@
+
+L
+java:S1066 "/Merge this if statement with the enclosing one.(ö˜£8„×Ó¶Å1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "login" 3 times.(Íı‡Ç8ƒ×Ó¶Å1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Äà­ÿÖ2
+W
+java:S2441"":Make "User" serializable or don't store it in the session.(ç ‚ø8‘×Ó¶Å1
+G	java:S106'"+Replace this use of System.out by a logger.(úµ™8’×Ó¶Å1
+X	java:S125&"<This block of commented-out lines of code should be removed.(½”±­8’×Ó¶Å1
+G	java:S106."+Replace this use of System.out by a logger.(ı €ñ8“×Ó¶Å1
+G	java:S1061"+Replace this use of System.out by a logger.(ïïÒ8”×Ó¶Å1

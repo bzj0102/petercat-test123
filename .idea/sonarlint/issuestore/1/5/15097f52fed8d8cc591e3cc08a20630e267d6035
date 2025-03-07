@@ -1,0 +1,11 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¤šú²2
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¿«áÛ8¥šú²2
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8¥šú²2
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ˆÃ·óùÿÿÿÿ8¦šú²2
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(­áşÿÿÿÿ8¦šú²2

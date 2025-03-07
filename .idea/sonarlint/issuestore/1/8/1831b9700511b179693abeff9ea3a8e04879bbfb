@@ -1,0 +1,9 @@
+
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(í§ì›ûÿÿÿÿ8£®ê¶Å1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¢Ñ­ÿÖ2
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÓÐ¹Äÿÿÿÿÿ8Õ˜¼¶Å1
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú­Ç†8×˜¼¶Å1
